@@ -2,11 +2,13 @@
 
 The purpose of this tutorial is to introduce folks to Dask and show them how to scale their python data-science and machine learning workflows. The materials covered are:
 
-0. Overview of Dask - How it works and when to use it. 
-1. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
-2. Schedulers: Single Machine vs Distributed, and the Dashboard.   
-3. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
-4. Dask-ML: Scalable machine learning using Dask.  
+0. "Test Drive" Notebook that quickly demo's the main Dask features. 
+1. Overview of dask - How it works and when to use it (no code). 
+2. From pandas to Dask: How to manipulate bigger-than-memory DataFrames using Dask.  
+3. Dask-ML: Scalable machine learning using Dask.   
+4. Dask Delayed: How to parallelize existing Python code and your custom algorithms. 
+5. Schedulers: Single Machine vs Distributed, and the Dashboard.   
+
 
 ## Prerequisites
 
@@ -30,7 +32,7 @@ to keep in mind is that the amount of resources are limited and sometimes you wo
 
     *IMPORTANT*: If you are joining the live session, make sure to click on the button few minutes before we start so we are ready to go. 
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-mini-tutorial/HEAD)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial-pyconDE22/HEAD)
 
 
 2. You can create your own set-up locally. To do this you need to be comfortable with the git and github as well as installing packages and creating software environments. If so, follow the next steps:

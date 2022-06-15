@@ -32,10 +32,9 @@ to keep in mind is that the amount of resources are limited and sometimes you wo
 
     *IMPORTANT*: If you are joining the live session, make sure to click on the button few minutes before we start so we are ready to go. 
 
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coiled/dask-tutorial-pyconDE22/HEAD)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rrpelgrim/dask-mini-tutorial/HEAD)
 
-
-2. You can create your own set-up locally. To do this you need to be comfortable with the git and github as well as installing packages and creating software environments. If so, follow the next steps:
+2. You can create your own set-up locally. To do this you need to be comfortable with git and github as well as installing packages and creating software environments. If so, follow the next steps:
 
     *IMPORTANT:* If you are joining for a live session please make sure you do the setup in advance, and be ready to go once the session starts.
 
@@ -43,7 +42,7 @@ to keep in mind is that the amount of resources are limited and sometimes you wo
         In your terminal:
 
         ```
-        git clone https://github.com/coiled/dask-mini-tutorial.git
+        git clone https://github.com/rrpelgrim/dask-mini-tutorial.git
         ```
         Alternatively, you can download the zip file of the repository at the top of the main page of the repository. This is a good option if you don't have experience with git.
         
